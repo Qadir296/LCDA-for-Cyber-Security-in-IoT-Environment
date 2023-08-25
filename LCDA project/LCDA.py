@@ -1,9 +1,9 @@
 import copy, time
-from LCDA.derivation import *
-from LCDA.facts import *
-from LCDA.rule import *
-from LCDA.context import *
-from LCDA.dataset import *
+from derivation import *
+from facts import *
+from rule import *
+from context import *
+from dataset import *
 
 def anomaly_Detection(rules, facts, context, negative_rule):
   k = 0           ## number of derivation

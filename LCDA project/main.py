@@ -1,7 +1,7 @@
-from LCDA.LCDA import anomaly_Detection
-from LCDA.derivation import *
-from LCDA.dataset import *
-from LCDA.context import *
+from LCDA import anomaly_Detection
+from derivation import *
+from dataset import *
+from context import *
 
 
 if __name__ == "__main__":

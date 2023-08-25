@@ -1,9 +1,9 @@
 from itertools import combinations
 import random
-from LCDA.facts import *
-from LCDA.rule import *
-from LCDA.context import *
-from LCDA.dataset import *
+from facts import *
+from rule import *
+from context import *
+from dataset import *
 
 def generate_combinations(data, size):
     combinations_list = []

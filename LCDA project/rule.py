@@ -1,4 +1,4 @@
-from LCDA.predicate import *
+from predicate import *
 
 class Rule:
     def __init__(self, ruleID: int):

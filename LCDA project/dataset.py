@@ -1,6 +1,6 @@
-from LCDA.predicate import *
-from LCDA.rule import *
-from LCDA.facts import *
+from predicate import *
+from rule import *
+from facts import *
 
 
 ##### Predicates #############

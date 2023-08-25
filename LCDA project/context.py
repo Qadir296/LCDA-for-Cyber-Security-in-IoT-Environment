@@ -1,4 +1,4 @@
-from LCDA.dataset import *
+from dataset import *
 
 class Context:
     def __init__(self, contextID: int):
