@@ -87,3 +87,4 @@ def anomaly_Detection(rules, facts, context, negative_rule):
   process_time = end - start
   print("Processing time:", process_time)
   return facts
+  
