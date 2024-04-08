@@ -31,8 +31,9 @@ The project incorporates the following features:
 ## Usage
 
 To use this project:
-    - For LCDA, PLCDA Project: run the "main.py" file. 
-    - For LCDA testing the project, run the jupyter file.
+
+- For LCDA, PLCDA Project: run the "main.py" file. 
+- For LCDA testing the project, run the jupyter file.
 
 ## Installation
 
