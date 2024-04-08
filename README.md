@@ -1,7 +1,4 @@
-# Project Name
-
-Parallelized Derivation Algorithm for Anomaly Detection in the Internet of Things Environement
-
+# Parallelized Derivation Algorithm for Anomaly Detection in the Internet of Things Environment
 ## Table of Contents
 
 - [About](#about)
@@ -11,7 +8,7 @@ Parallelized Derivation Algorithm for Anomaly Detection in the Internet of Thing
 
 ## About
 
-This project provides the implementation of different algorithms such as Context making, Lightwieght Derivation algorithm, and its parallelized variant Parallelized LCDA (PLCDA) for anomaly detection in IoT enviroment. The project contain different experiements including the main Smart Home use case, where there are three sub cases for Intrusion Detection, Anomaly Detection, and Unauthorized Access in Smart Home. 
+This project implements different algorithms such as Context making, Lightweight Derivation algorithm, and its parallelized variant Parallelized LCDA (PLCDA) for anomaly detection in an IoT environment. The project contains different experiments including the main Smart Home use case, where there are three sub-cases for Intrusion Detection, Anomaly Detection, and Unauthorized Access in Smart Home. 
 
 
 ## Features
