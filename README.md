@@ -8,20 +8,27 @@ Parallelized Derivation Algorithm for Anomaly Detection in the Internet of Thing
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## About
+The project efficiently performs inconsistency checking within the KBS framework by implementing different algorithms, including the Lightweight Contextual Derivation Algorithm (LCDA) and its parallelized variant (PLCDA), taking into account the inherent idiosyncrasies of the application domain. 
 
-This repo provide implementation of a logical model for anomaly detection. In this work we made a set of logical rules for a use case of smart home. 
+The project effectively demonstrates the superiority of the proposed algorithms in enhancing cybersecurity measures within IoT ecosystems. Practical implementation and testing in scenarios such as smart home environments have proven the efficiency and responsiveness of the solution. Performance evaluations comparing the developed approaches with traditional methods provide further evidence of the solution's effectiveness.
+
 
 ## Features
 
-List out the key features of your project. You can use bullet points for this section.
+The project incorporates the following features:
 
-- Feature 1
-- Feature 2
-- Feature 3
+1. **Semantic Modeling**: Utilize Knowledge Base System (KBS) for semantic modeling to understand user IoT device usages and applications for enhanced security.
+
+2. **Context-Based Knowledge Base**: Provide Implementation of algorithm for Knowledge Base (KB) rewriting into context-based KBs.
+
+4. **Lightweight Contextual Derivation Algorithm (LCDA)**: Implementation LCDA for efficient inconsistency checking in KBS.
+
+5. **Parallel LCDA (PLCDA)**: Improve LCDA by introducing parallelization techniques to accelerate the derivation process for enhanced performance.
+
+6. **Practical Use Case Implementation**: Implement and test the algorithms in a practical use case scenario, such as a smart home environment, to demonstrate effectiveness in cybersecurity applications.
 
 ## Installation
 
