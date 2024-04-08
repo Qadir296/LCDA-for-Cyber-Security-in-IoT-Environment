@@ -18,7 +18,7 @@ This project provides the implementation of different algorithms such as Context
 
 The project incorporates the following features:
 
-1. **Semantic Modeling**: Utilize Knowledge Base System (KBS) for semantic modeling to understand user IoT device usages and applications for enhanced security.
+1. **Semantic Modeling**: Utilize a Knowledge Base System (KBS) for semantic modeling to understand user IoT device usages and applications for enhanced security.
 
 2. **Context-Based Knowledge Base**: Provide Implementation of algorithm for Knowledge Base (KB) rewriting into context-based KBs.
 
@@ -49,4 +49,4 @@ You can install Python from the official [Python website](https://www.python.org
 Once you have Python installed, you can install the required libraries using pip:
 
 ```bash
-pip install time itertools multiprocessing random 
+pip install time itertools multiprocessing random
