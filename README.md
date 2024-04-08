@@ -6,8 +6,8 @@ Parallelized Derivation Algorithm for Anomaly Detection in the Internet of Thing
 
 - [About](#about)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
+- [Installation](#installation)
 
 ## About
 
@@ -28,6 +28,12 @@ The project incorporates the following features:
 
 6. **Practical Use Case Implementation**: Implement and test the algorithms in a practical use case scenario, such as a smart home environment, to demonstrate effectiveness in cybersecurity applications.
 
+## Usage
+
+To use this project:
+    - For LCDA, PLCDA Project: run the "main.py" file. 
+    - For LCDA testing the project, run the jupyter file.
+
 ## Installation
 
 To use this project, you need to have Python 3.11.0 installed on your system along with the following libraries:
@@ -42,11 +48,4 @@ You can install Python from the official [Python website](https://www.python.org
 Once you have Python installed, you can install the required libraries using pip:
 
 ```bash
-pip install time itertools multiprocessing random
-
-
-## Usage
-
-To use this project:
-    - For LCDA, PLCDA Project: run the "main.py" file. 
-    - For LCDA testing the project, run the jupyter file.
+pip install time itertools multiprocessing random 
