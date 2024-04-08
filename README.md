@@ -8,12 +8,10 @@ Parallelized Derivation Algorithm for Anomaly Detection in the Internet of Thing
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## About
-The project efficiently performs inconsistency checking within the KBS framework by implementing different algorithms, including the Lightweight Contextual Derivation Algorithm (LCDA) and its parallelized variant (PLCDA), taking into account the inherent idiosyncrasies of the application domain. 
 
-The project effectively demonstrates the superiority of the proposed algorithms in enhancing cybersecurity measures within IoT ecosystems. Practical implementation and testing in scenarios such as smart home environments have proven the efficiency and responsiveness of the solution. Performance evaluations comparing the developed approaches with traditional methods provide further evidence of the solution's effectiveness.
+This project provides the implementation of different algorithms such as Context making, Lightwieght Derivation algorithm, and its parallelized variant Parallelized LCDA (PLCDA) for anomaly detection in IoT enviroment. The project contain different experiements including the main Smart Home use case, where there are three sub cases for Intrusion Detection, Anomaly Detection, and Unauthorized Access in Smart Home. 
 
 
 ## Features
@@ -46,3 +44,9 @@ Once you have Python installed, you can install the required libraries using pip
 ```bash
 pip install time itertools multiprocessing random
 
+
+## Usage
+
+To use this project:
+    - For LCDA, PLCDA Project: run the "main.py" file. 
+    - For LCDA testing the project, run the jupyter file.
